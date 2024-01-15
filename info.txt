@@ -1,0 +1,4 @@
+1,milkybar,10,24
+2,chocobar,13,45
+3,kinderjoy,50,16
+4,diarymilk,60,20
